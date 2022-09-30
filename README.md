@@ -1,16 +1,17 @@
-# furniture
+# Furniture  
+  
+A Flutter Android app .
+  
+## Getting Started  
+  This app is created using the UI from [this figma file.](https://www.figma.com/file/PiFrpIKXQfrDFWf96wvsSA/furniture-app-design-%28Copy%29?node-id=0:1)
 
-A new Flutter project.
+## Screenshots
+<p>
+<img src="https://github.com/majidabdulred/furniture/blob/main/imgs/gf.gif" alt="drawing" width="300"/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/majidabdulred/furniture/blob/main/imgs/ss5.jpg" alt="drawing" width="300"/>
+<img src="https://github.com/majidabdulred/furniture/blob/main/imgs/ss4.jpg" alt="drawing" width="300"/>
+<img src="https://github.com/majidabdulred/furniture/blob/main/imgs/ss1.jpg" alt="drawing" width="300"/>
+<img src="https://github.com/majidabdulred/furniture/blob/main/imgs/ss2.jpg" alt="drawing" width="300"/>
+<img src="https://github.com/majidabdulred/furniture/blob/main/imgs/ss3.jpg" alt="drawing" width="300"/>
+</p>
